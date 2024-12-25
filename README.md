@@ -21,5 +21,8 @@ npm start
 # Así se hizo
 Para obtener el esquema inicial utilicé GitHub Copilot (o1 preview) el siguiente prompt:
 ```
+createWorkspace create a battleship app with nodejs and socketio in the server, and HTML javascript and CSS in the client
 ```
-Posteriormente utilicé Cline desde VSCode para mejorar la solución
+Posteriormente utilicé Cline desde VS Code para mejorar la solución.
+Para utilizar Cline, instalé el complemento de VS Code y lo configuré para que utilizara Gemini.
+Para usar Gemini hay que obtener un API Key de [Google AI Studio](https://aistudio.google.com/) 
