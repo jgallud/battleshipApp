@@ -1,5 +1,5 @@
 # battleshipApp
-Aplicación desarrollada con IA (y alguna pequeña ayuda) del juego de la batalla naval
+Aplicación desarrollada con IA (y alguna pequeña ayuda) del juego de la batalla naval con sockets
 
 ## Funcionalidad que incluye
 Permite al usuario colocar los barcos donde quiera
