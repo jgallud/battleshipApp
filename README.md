@@ -3,7 +3,8 @@ Aplicación desarrollada con IA (y alguna pequeña ayuda) del juego de la batall
 
 # Instalación
 Clona el repositorio
+```
 npm install
 npm start
-
+```
 # Así se hizo
