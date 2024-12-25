@@ -18,6 +18,8 @@ Clona el repositorio
 npm install
 npm start
 ```
+Para probar la app, abre dos navegadores con la url http://localhost:3000
+
 # Así se hizo
 Para obtener el esquema inicial utilicé GitHub Copilot (o1 preview) el siguiente prompt:
 ```
